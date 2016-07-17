@@ -4,7 +4,7 @@ from deluge_client import DelugeRPCClient
 from sys import exit
 
 # Setting variables
-HOST = "cid.local"
+HOST = "localhost"
 PORT = 58846
 USER = "deluge"
 PASS = "password"
